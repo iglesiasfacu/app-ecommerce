@@ -1,0 +1,13 @@
+.navbar {
+  background-color: #ffd60a;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.main-logo img {
+  width: 150px;
+  margin-left: 100px;
+}
